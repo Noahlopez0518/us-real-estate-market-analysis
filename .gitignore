@@ -1,0 +1,12 @@
+# Dataset (too large for GitHub — see data/README.md for download link)
+data/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.pbix.tmp
+
+# Office temp files
+~$*
